@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.28125" />
+        <entry key="..\:/krutika/MedLifeApplication/app/src/main/res/drawable/rounded_green_rect.xml" value="0.18076923076923077" />
+        <entry key="..\:/krutika/MedLifeApplication/app/src/main/res/layout/activity_article_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/krutika/MedLifeApplication/app/src/main/res/layout/activity_homescreen.xml" value="0.20416666666666666" />
+        <entry key="..\:/krutika/MedLifeApplication/app/src/main/res/layout/activity_login.xml" value="0.1675213675213675" />
+        <entry key="..\:/krutika/MedLifeApplication/app/src/main/res/layout/activity_registration.xml" value="0.1675213675213675" />
+        <entry key="..\:/krutika/MedLifeApplication/app/src/main/res/layout/article_list_item.xml" value="0.33" />
+        <entry key="..\:/krutika/MedLifeApplication/app/src/main/res/layout/otp_popup.xml" value="0.1675213675213675" />
+        <entry key="app/src/main/res/drawable/rounded_green_rect.xml" value="0.4066666666666667" />
+        <entry key="app/src/main/res/drawable/rounded_white_rect.xml" value="0.39351851851851855" />
+        <entry key="app/src/main/res/drawable/rounded_white_rect_gray_border.xml" value="0.4066666666666667" />
+        <entry key="app/src/main/res/layout/activity_article_detail.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/activity_homescreen.xml" value="0.2546875" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.271875" />
+        <entry key="app/src/main/res/layout/activity_registration.xml" value="0.2859375" />
+        <entry key="app/src/main/res/layout/article_list_item.xml" value="0.2546875" />
+        <entry key="app/src/main/res/layout/custom_action_bar.xml" value="0.22552083333333334" />
+        <entry key="app/src/main/res/layout/otp_popup.xml" value="0.3917572463768116" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
